@@ -9,6 +9,8 @@ Tutor: Traversy Media
 ~~~
 npm create vite@latest
 npm install @sanity/client
+yarn add react-router-dom
+yarn add react-social-icons
 ~~~
 
 # sanity Install guide
@@ -17,3 +19,12 @@ sanity init
 cd photofolio-studio
 sanity start
 ~~~
+
+# git command
+~~~
+git init
+git commit -m "first commit"
+git add .
+git push origin main
+~~~
+
